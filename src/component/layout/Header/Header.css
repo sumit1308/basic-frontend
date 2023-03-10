@@ -1,0 +1,11 @@
+.headerDiv {
+  margin-top: 1vmax;
+  padding: 1vmax;
+  width: 100%;
+  display: flex;
+  background-color: rgb(205, 205, 221);
+  color: white;
+  flex-direction: row;
+  gap: 100px;
+  align-items: center;
+}
